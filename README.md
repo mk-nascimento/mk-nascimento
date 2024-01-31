@@ -1,5 +1,5 @@
 <h1 align="center">Maksuel Nascimento (mk-nascimento)</h1>
-<p align="center"><b>FrontEnd Developer</b></p><br><br><br>
+<p align="center"><b>Fullstack Developer</b></p><br><br><br>
 
 
 <h2 align="center">Skills</h3><br><br>
@@ -13,6 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="mk-nodejs-logo"  align="center" height="45" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="mk-expressjs-logo"  align="center" height="45" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="mk-postgresql-logo"  align="center" height="45" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="mk-python-logo"  align="center" height="45" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="mk-git-logo"  align="center" height="45" width="60" />
 </div><br><br><br>
 
@@ -20,7 +21,6 @@
 <h2 align="center">Learning</h3><br><br>
 <div style="display:inline_block" align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="mk-linux-logo"  align="center" height="45" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="mk-python-logo"  align="center" height="45" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="mk-angular-logo"  align="center" height="45" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="mk-shell_script-logo"  align="center" height="45" width="60" />
 </div><br><br><br>
